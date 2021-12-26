@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working as Software Engineer in Paris, France.
+I’m currently working as a Software Engineer in Paris, France.
 
 - 😎 I've worked with Flutter, Reactjs, Nodejs, Java, Python, PHP etc.
 - ❤️ I enjoy working in Frontend and I love creating beautiful Apps. 
