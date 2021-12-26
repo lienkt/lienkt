@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working as a Software Engineer in Paris, France.
+I’m currently working as a Software Engineer in Paris, France. I have more than 3 years of experience in Web and Desktop Application development. I am eager to sharpen my skills in Programming, Software Industrialization, and Management through academic studying as well as real-life experience.
 
 - 😎 I've worked with Flutter, Reactjs, Nodejs, Java, Python, PHP etc.
 - ❤️ I enjoy working in Frontend and I love creating beautiful Apps. 
