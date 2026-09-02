@@ -1,4 +1,4 @@
-# Hi, I'm Kim Lien 👋
+# Hi, I'm Lien Kim 👋
 
 I'm a **Software Engineer with 5+ years of professional experience**, a strong background in **Front-End Development**, and a growing specialization in **Generative AI and AI-powered applications**.
 
