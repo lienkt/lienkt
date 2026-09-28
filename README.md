@@ -77,6 +77,6 @@ I enjoy exploring how AI can be integrated into existing software products as we
 
 ## 🔗 Connect With Me
 
-🌐 **Portfolio:** https://lienkim.info/
+🌐 **Portfolio:** https://lienkim.com/
 
 💼 **LinkedIn:** https://www.linkedin.com/in/lienkt0110/
