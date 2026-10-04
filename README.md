@@ -1,6 +1,6 @@
 # Hi, I'm Lien Kim 👋
 
-I'm a **Software Engineer with 5+ years of professional experience**, a strong background in **Front-End Development**, and a growing specialization in **Generative AI and AI-powered applications**.
+I'm a **Software Engineer with 5+ years of professional experience**, a strong background in **Full-stack Development**, and a growing specialization in **Generative AI and AI-powered applications**.
 
 Throughout my career, I've worked with companies across **Vietnam, France, and Belgium**, building production applications and contributing to products in industries including **e-commerce, advertising, marketing, social media, healthcare, and transportation**.
 
